@@ -1,20 +1,5 @@
 # Hi there 👋
 
-## Semester 1
-
-- [Advanced Database Concepts](https://github.com/ttran375/comp214)
-- [Programming 2](https://github.com/ttran375/comp123)
-- [Java Programming](https://github.com/ttran375/comp228)
-
-## Semester 2
-
-- [Networking for Software Developers](https://github.com/ttran375/comp216)
-- [Web Application Development](https://github.com/ttran375/comp229)
-- [Data Structures and Algorithms](https://github.com/ttran375/comp254)
-- [Mobile Apps Development](https://github.com/ttran375/comp304)
-- [Software Testing and Quality Assurance](https://github.com/ttran375/comp311)
-- [Linear Algebra and Statistics](https://github.com/ttran375/math210)
-
 <!--
 **ttran375/ttran375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,3 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ttran375&&show_icons=true&locale=en&layout=compact&langs_count=12" alt="ttran375" /></p>
+
+## Semester 1
+
+- [Advanced Database Concepts](https://github.com/ttran375/comp214)
+- [Programming 2](https://github.com/ttran375/comp123)
+- [Java Programming](https://github.com/ttran375/comp228)
+
+## Semester 2
+
+- [Networking for Software Developers](https://github.com/ttran375/comp216)
+- [Web Application Development](https://github.com/ttran375/comp229)
+- [Data Structures and Algorithms](https://github.com/ttran375/comp254)
+- [Mobile Apps Development](https://github.com/ttran375/comp304)
+- [Software Testing and Quality Assurance](https://github.com/ttran375/comp311)
+- [Linear Algebra and Statistics](https://github.com/ttran375/math210)
+- 
