@@ -31,4 +31,3 @@ Here are some ideas to get you started:
 - [Mobile Apps Development](https://github.com/ttran375/comp304)
 - [Software Testing and Quality Assurance](https://github.com/ttran375/comp311)
 - [Linear Algebra and Statistics](https://github.com/ttran375/math210)
-- 
